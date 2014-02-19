@@ -1,0 +1,29 @@
+{
+  "name": "grunt-update-gist",
+  "description": "A Grunt task for updating gists.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/himedlooff/grunt-update-gist",
+  "author": {
+    "name": "Michael Morici",
+    "url": "http://github.com/himedlooff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/himedlooff/grunt-update-gist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/himedlooff/grunt-update-gist/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "request": "~2.34.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
