@@ -20,8 +20,11 @@ A Grunt task for updating gists.
 
 1. Add this module to your `package.json` file.
 2. Add this task to your `Gruntfile.js` file.
+
         grunt.loadNpmTasks('update-gist');
+
 3. Add and edit options for this task in you `Gruntfile.js` file.
+
         'update-gist': {
           docs: {
             options: {
