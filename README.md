@@ -3,7 +3,9 @@
 A Grunt task for updating gists.
 
 ---
+
 :warning: This is currently only a sketch
+
 ---
 
 ## Dev resources
